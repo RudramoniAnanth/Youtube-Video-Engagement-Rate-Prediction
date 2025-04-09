@@ -99,3 +99,7 @@ In conclusion, this project successfully developed a machine learning model that
 This predictive model offers a practical, data-driven solution for emerging creators, helping them navigate the competitive landscape of online video platforms. Our work highlights the importance of well-crafted video metadata in driving audience interaction and provides a scalable solution adaptable to other content-sharing platforms.
 
 ---
+## Contributors
+**Harsh Bang**
+
+**V. Abhiram Reddy**
